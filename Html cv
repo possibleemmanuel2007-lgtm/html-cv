@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+     <meta charset="UTF-8">
+     <meta name="viewport"
+   content="width=device=width,initial-scale=1.0">
+      <title>
+          MY CURRICULLUM VITAE
+      </title>    
+      </head>
+      <body>
+          <header>
+             <h1>possible emmanuel</h1>
+             <img src="Photo.jpg" alt="" width="120" height="120">
+             <p> port harcourt,Rivers state</p>
+             <p>phone: +2349010179508</p>
+             <p>Email:
+             <a href="">possibleemmanuel2007@gmail.com</a>
+             </p>
+             <hr>
+          </header>
+          <main>>
+              <section>
+                 <h2>
+                     Professional summary
+                 </h2> 
+                 
+                     <p>
+                
+A skilled professional designing, building, and maintaining responsive, user-friendly, and scalable websites and web applications. Proficient in HTML/CSS, JavaScript, and various frameworks. Experienced in collaborating with teams to deliver high-quality web solutions.
+                            </p>
+              </section>
+              <section>
+                  <h2>
+                      skills
+                  </h2>
+                  <ul>
+                    <li>  Front-end development (HTML/CSS, JavaScript, React, Angular, Vue.js)</li> 
+<li>Back-end development (Node.js, Express, Ruby on Rails)</li>
+<li> management (MySQL, MongoDB, PostgreSQL)</li>
+ <li> control (Git, GitHub)</li>
+<li>Responsive web design and mobile-first development</li>
+                  </ul>
+              </section>
+          </main>
+          <h2>Goals</h2>
+     <ul>
+         <li>To create innovative and user-centric web solutions</li>
+  <li>To stay up-to-date with industry trends and best practices</li>
+ <li>To collaborate with teams to drive project success</li>
+     </ul>
+      </body>
+  
+</html>
